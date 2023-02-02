@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+.red-color{
+    background-color: red;
+}
+
+.green-color{
+    background-color: green;
+}
+.yellow-color{
+    background-color: yellow;
+}
+th, table{
+    border: 1px solid;
+    border-collapse: collapse;
+}
